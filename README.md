@@ -108,7 +108,7 @@ PUBG_BGMI-Phishing IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOU
 
 ## ✅ INSTALLATION [ All Systems ] :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/OnlineHacKing/PUBG_BGMI-Phishing&tutorial=README.md)
+# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing&tutorial=README.md)
 
 
 ## ✅ INSTALLATION [ Android Termux ] :
@@ -119,7 +119,7 @@ pkg upgrade -y
 
 pkg install git wget
 
-git clone https://github.com/OnlineHacKing/PUBG-BGMI_Phishing.git
+git clone https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing.git
 
 cd PUBG-BGMI_Phishing
 
@@ -139,7 +139,7 @@ sudo apt upgrade -y
 
 sudo apt install git wget
 
-git clone https://github.com/OnlineHacKing/PUBG-BGMI_Phishing.git
+git clone https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing.git
 
 cd PUBG-BGMI_Phishing
 
@@ -152,35 +152,22 @@ PUBG-BGMI_Phishing
 
 ## ✅ INSTALLATION [ Windows ] :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/OnlineHacKing/PUBG_BGMI-Phishing&tutorial=README.md)
+# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing&tutorial=README.md)
 
   
 ### 📸 SCREENSHOTS [Termux]
 
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/OnlineHacKing/PUBG_BGMI-Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI1.jpg"/>
+<img width="40%" src="https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI1.jpg"/>
 </p>
 <br>
 <p align="center">
-<img width="41%" src="https://github.com/OnlineHacKing/PUBG_BGMI-Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI2.jpg"/>
-<img width="40%" src="https://github.com/OnlineHacKing/PUBG_BGMI-Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI3.jpg"/>
+<img width="41%" src="https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI2.jpg"/>
+<img width="40%" src="https://github.com/DARKSTUFF-LAB/PUBG-BGMI_Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI3.jpg"/>
 </p>
 
 
-
-
-
-## 👨🏻‍💻 CONNECT WITH US :
-
-
-<a href="https://github.com/OnlineHacKing"><img title="Github" src="https://img.shields.io/badge/Online-hacking-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/suman333mondal/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.onlinehacking.xyz)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumam333mondal/)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://fb.com/adminonlinehacking)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://telegram.dog/OnlineHacking)
-<a href="https://www.youtube.com/channel/UC8pmZJAlagdZ7bb0TBlogYw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Online Hacking-red?style=for-the-badge&logo=Youtube"></a>
 
 
 # ■□■ ⚠ Warning ⚠ ■□■
